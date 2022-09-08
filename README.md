@@ -1,21 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Seja Bem vindo a minha page {Tamer Serhan}
 
 [![GitHub license](https://img.shields.io/github/license/tamerfs/tamerfs)](https://github.com/tamerfs/tamerfs/blob/main/licence)
-
-# Tamer Serhan  
-Brasileiro, 26 anos, solteiro.
-  
-Cel.: (11) 9 5225 4637
-
-[Gmail](mailto:tamer.srhn@gmail.com)
-
-[Meu Linkedin](https://www.linkedin.com/in/tamer-f-serhan/) 
-
-[Meu GitHub](https://github.com/tamerfs)
-
-[Meus Projetos e Certificados](https://introducter-tamerfs.vercel.app/)
-
-
 
 > Entrei de cabeça na área de desenvolvimento e manutenção de sistemas por que gosto muito das possibilidades onde podemos criar do zero mundos inteiros e sistemas à nosso serviço, desde o front e a interação com os usuários e o que acontece nos bastidores quando damos o enter ou apertamos o botão enviar.
 > 
@@ -24,21 +9,35 @@ Cel.: (11) 9 5225 4637
 >
 >Minha meta é absorver mais o backend com o Node.js e importar minhas aplicações para o _clouding da AWS_ suas outras ferramentas e me tornar um _Senior Full stack_. Após isso vou me aprofundar também em outras linguagens como python e java.
 >
->Dê uma olhadinha no meu portfólio e no meu GitHub, os links estão colocados aqui na minha página..
+>Dê uma olhadinha no meu portfólio , os links estão colocados aqui na minha página..
+[Meus Projetos e Certificados](https://introducter-tamerfs.vercel.app/)
 
 
 ### Línguas de programação: 
+* html/css;
 * PHP;
 * Java;
-* JavaScript;
-* TypeScript;
-* Nodejs;
-* Reactjs;
-* html/css, Angular9;
+* JavaScript:
+  - TypeScript,
+  - Nodejs,
+  - Reactjs,
+  - Angular9.
 * Python;
 * C / GCL+;
-* MySQL, ElephantSQL, MondoDB, Postgres, Xamp e Apache;
-* entre outros.
+* Para Databases:
+  * MySQL,
+  * ElephantSQL,
+  * MondoDB,
+  * Postgres,
+  * Xamp e Apache.
+entre outros.
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-tamer-f-serhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/tamer-f-serhan/)](https://www.linkedin.com/in/tamer-f-serhan/)
+[![Gmail Badge](https://img.shields.io/badge/-tamer.srhn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamer.srhn@gmail.com)](mailto:tamer.srhn@gmail.com)
+
+
 
 Libs ja usadas js e node:
 
