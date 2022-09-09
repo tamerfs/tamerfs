@@ -1,4 +1,6 @@
-### Hi there 👋 Seja Bem vindo a minha page {Tamer Serhan}
+### Hi there 👋 Welcome to my page. 
+
+## class *Tamer Serhan* {
 
 [![GitHub license](https://img.shields.io/github/license/tamerfs/tamerfs)](https://github.com/tamerfs/tamerfs/blob/main/licence)
 
@@ -113,3 +115,4 @@ Libs ja usadas JAVA:
 ##### Testes e games
 ![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
+}
