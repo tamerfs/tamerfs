@@ -89,7 +89,7 @@ Libs ja usadas python:
 Libs ja usadas JAVA:
 | Lib ou framework | onde usado | O que é ou para que serve |
 |--- |--- |--- |
-|![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) | [projeto_IMdb API com Java](https://github.com/tamerfs/imersao-imdb-api)| |
+|![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) | [Projeto IMdb API com Java](https://github.com/tamerfs/imersao-imdb-api)| |
 |![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|[projeto DS meta](https://github.com/tamerfs/Front-End-DSmeta); | |
 
 
