@@ -75,14 +75,14 @@ Libs ja usadas python:
 
 | Lib ou framework | onde usado | O que é ou para que serve |
 |--- |--- |--- |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)         |Projetos_py_Jupyter| | 
-| ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white).express |Projetos_py_Jupyter| |            
-| pyautogui                 |Projetos_py_Jupyter| |
-| pyperclip                 |Projetos_py_Jupyter| |
-| ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)           |Projetos_py_Jupyter| | 
-| matplotlib                |Projetos_py_Jupyter| |
-| seaborn                   |Projetos_py_Jupyter| |
-| scikit-learn              |Projetos_py_Jupyter| |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)         |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| | 
+| ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white).express |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |            
+| pyautogui                 |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
+| pyperclip                 |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
+| ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)           |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| | 
+| matplotlib                |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
+| seaborn                   |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
+| scikit-learn              |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)|||
 
 Libs ja usadas JAVA:
