@@ -22,6 +22,8 @@
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E):
   - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  - <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> 
   - ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 * ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white);
@@ -82,7 +84,7 @@ Libs ja usadas python:
 | pyperclip                 |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
 | ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)           |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| | 
 | matplotlib                |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
-| seaborn                   |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
+| <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>                  |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
 | scikit-learn              |[Projetos em PY Jupter](https://github.com/tamerfs/Projetos_py_Jupyter)| |
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)|||
 
@@ -91,6 +93,11 @@ Libs ja usadas JAVA:
 |--- |--- |--- |
 |![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) | [Projeto API com Java](https://github.com/tamerfs/Projeto_JAVA_Lang-API)| |
 |![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|[projeto DS meta](https://github.com/tamerfs/Front-End-DSmeta); [Projeto API com Java](https://github.com/tamerfs/Projeto_JAVA_Lang-API);| |
+
+PHP
+|Lib e Frameworks | onde usado | Uso frequente|
+|---|---|---|
+|<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>|   |  |
 
 
 #### Softwares e Pataformas
@@ -115,5 +122,10 @@ Libs ja usadas JAVA:
 
 ##### Testes e games
 ![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+
+<p><img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamerfs&show_icons=true&locale=en&layout=compact" alt="tamerfs" /></p>
+
+<p>&nbsp;<img allign="center" src="https://github-readme-stats.vercel.app/api?username=tamerfs&show_icons=true&locale=en" alt="tamerfs" /></p>
+
 
 }
